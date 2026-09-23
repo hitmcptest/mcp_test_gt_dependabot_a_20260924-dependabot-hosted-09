@@ -1,0 +1,2 @@
+# Synthetic attribute fixture only. Never install or execute.
+PyYAML==5.3.1
